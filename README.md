@@ -14,6 +14,6 @@ Here you will find a functional ARM CPU created in Verilog
 
 ![High level connections](https://user-images.githubusercontent.com/21070325/197694135-df559144-09ea-4b52-8a99-8c0963e6a5c6.png)
 
-![Circuit Diagarm](https://user-images.githubusercontent.com/21070325/197694069-6891ffa2-958c-4214-ae81-db5bfe9f55e6.png)
+![Arqui Fase 2 - Diagrama de circuito](https://user-images.githubusercontent.com/21070325/197694448-50014c85-ab50-4c9f-a9ad-f816f536a807.png)
 
-![State diagram](https://user-images.githubusercontent.com/21070325/197694084-3c885de1-0de9-4cfc-b263-277b0d8b5d26.png)
+![State diagram (1)](https://user-images.githubusercontent.com/21070325/197694458-9f39611a-c55c-403e-bfbb-4bc4996850a2.png)
